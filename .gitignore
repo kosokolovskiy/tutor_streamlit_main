@@ -1,0 +1,11 @@
+streamlit_app/config.yaml
+
+streamlit_app/files/pdf_for_students
+
+streamlit_app/files/tasks
+
+.env
+
+gcp_service_account.json
+
+.venv

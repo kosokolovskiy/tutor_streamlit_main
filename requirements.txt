@@ -1,0 +1,12 @@
+pymongo
+protobuf
+mysql-connector-python
+streamlit-authenticator==0.3.2
+matplotlib
+numpy
+google-api-python-client
+google-auth
+google-auth-httplib2
+google-auth-oauthlib
+openai
+boto3
